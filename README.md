@@ -32,7 +32,6 @@ Whether it’s designing smooth UIs or diving into the logic behind them, I thri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sinthana-prabakaran-5122a7286)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/im_sinthana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/SinthanaPrabakaran)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sinthana.2023@vitstudent.ac.in)
 
 📫 **Let’s connect and build something awesome!**  
 Feel free to reach out for collaborations, internships, or just a tech chat! 🚀
