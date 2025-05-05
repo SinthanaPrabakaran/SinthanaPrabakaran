@@ -5,7 +5,7 @@
 🎓 **Electronics & Computer Science Engineering** student @ **VIT**  
 🫶🏻 I love Maths<br>
 🎯 Passionate about crafting frontend experiences </br>
-🌐 Currently leveling up with **TypeScript** <br>
+🌐 Currently leveling up with **Backend** <br>
 🚀 Open to **internship opportunities** – eager to learn, build, and grow </br>
 🌍 Fun fact: I speak **German** – Hallo, Welt!
 
